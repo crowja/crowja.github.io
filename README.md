@@ -1,7 +1,6 @@
 # crowja.github.io
 
-Ongoing projects of mine that I enjoy working on when I have the
-time:
+Ongoing projects of mine:
 
 ## C scraps
 
