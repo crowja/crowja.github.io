@@ -1,8 +1,8 @@
 # crowja.github.io
 
-Ongoing projects of mine:
+## Ongoing projects of mine
 
-## C scraps
+### C scraps
 
 Sometimes it feels like overkill to depend on an external library when all one
 needs is a tiny fraction of what it provides. **C scraps** reflects the
@@ -16,7 +16,7 @@ overhead and comprehensiveness. Basic ideas:
 *   When it makes sense, the scrap is object-oriented and thread-safe. Objects
     are represented by opaque structs.
 
-## Acca
+### Acca
 
-## Fqutils
+### Fqutils
 
