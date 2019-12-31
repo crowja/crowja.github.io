@@ -10,8 +10,8 @@ needs is a tiny fraction of what it provides. **C scraps** reflects the
 particularly the ideas of providing functionality with a minimum of overhead and
 API complexity. Basic ideas:
 
-*   Each scrap provides clear, limited functionality. A scrap's codebase
-    potentially stabilizes very quickly.
+*   Each scrap provides clear, limited functionality.
+*   As a result a scrap's codebase potentially stabilizes very quickly.
 *   Each is plain old standard C.
 *   Drop its .c and .h files into your project and that's it. No formal
     libraries are built. The Github repos for each contain makefiles, build and
