@@ -5,7 +5,7 @@ Ongoing projects of mine:
 ## C scraps
 
 Sometimes it feels like overkill to depend on an external library when all one
-needs is a tiny fraction of what it provides. ``C scraps'' reflects the
+needs is a tiny fraction of what it provides. **C scraps** reflects the
 minimalist C library philosophy of providing functionality with a minimum of
 overhead and comprehensiveness. Basic ideas:
 
