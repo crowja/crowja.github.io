@@ -6,8 +6,9 @@
 
 Sometimes it feels like overkill to depend on an external library when all one
 needs is a tiny fraction of what it provides. **C scraps** reflects the
-minimalist C library philosophy of providing functionality with a minimum of
-overhead and comprehensiveness. Basic ideas:
+[minimalist C library philosophy](https://nullprogram.com/blog/2018/06/10/),
+particularly the ideas of providing functionality with a minimum of overhead and
+API complexity. Basic ideas:
 
 *   Each scrap provides clear, limited functionality.
 *   Each is plain old standard C.
@@ -15,6 +16,8 @@ overhead and comprehensiveness. Basic ideas:
     libraries are built.
 *   When it makes sense, the scrap is object-oriented and thread-safe. Objects
     are represented by opaque structs.
+
+See [C-scraps](C-scraps.md) for more info.
 
 ### Acca
 
