@@ -17,7 +17,7 @@ API complexity. Basic ideas:
 *   When it makes sense, the scrap is object-oriented and thread-safe. Objects
     are represented by opaque structs.
 
-See [C-scraps](C-scraps.md) for more info.
+See [C scraps](C-scraps.md) for more info.
 
 ### Acca
 
