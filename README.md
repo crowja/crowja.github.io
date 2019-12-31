@@ -1,6 +1,6 @@
 # crowja.github.io
 
-## Ongoing projects of mine
+## Ongoing projects
 
 ### C scraps
 
