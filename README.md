@@ -14,13 +14,12 @@ API complexity. Basic ideas:
     the scrap's codebase potentially stabilize very quickly.
 *   Each is plain old standard C.
 *   Drop its .c and .h files into your project and that's it. No formal
-    libraries are built.
+    libraries are built. The Github repos for each contain makefiles, build and
+    test rigs, examples, etc., but you don't need any of it to use a scrap.
 *   When it makes sense, the scrap is object-oriented and thread-safe. Objects
     are represented by opaque structs.
 
-See [C scraps](C-scraps.md) for more info. The Github repos for each contain
-makefiles, build and test rigs, examples, etc., but you don't need any of
-it to use a scrap.
+See [C scraps](C-scraps.md) for more info.
 
 ### Acca
 
