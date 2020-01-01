@@ -23,7 +23,7 @@ See [the C scraps page](C-scraps.md) for more info.
 
 ### Acca
 
-Acca is an experimental tool for creating hypotheses about causal relationships
+**Acca** is an experimental tool for creating hypotheses about causal relationships
 between two categorical variables. Given a dataset (x0, y0), (x1, y1), ...,
 where the x and y values are categorical, Acca will report candidate causal
 relationships. See [the Acca page](https://github.com/crowja/acca) for more info
