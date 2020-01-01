@@ -4,7 +4,7 @@
 
 ### C scraps
 
-It sometimes feels like overkill to require an external library when all you
+It sometimes overkill to require an external library when all you
 really want is a tiny fraction of it. **C scraps** reflects a
 [minimalist C library philosophy](https://nullprogram.com/blog/2018/06/10/),
 particularly the ideas of providing functionality with a minimum of overhead and
